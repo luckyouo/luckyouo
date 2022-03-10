@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/lewky">
+  <a href="https://github.com/luckyouo">
+    <img src="https://github-profile-trophy.vercel.app/?username=luckyouo&theme=darkhub" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/luckyouo">
     <img src="https://github-readme-stats.vercel.app/api?username=luckyouo&theme=dracula&show_icons=true" />
   </a>
 </p>
