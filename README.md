@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://github-profile-trophy.vercel.app/?username=luckyouo&theme=darkhub" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/luckyouo">
     <img src="https://github-readme-stats.vercel.app/api?username=luckyouo&theme=dracula&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyouo&layout=compact&theme=dracula" />      
