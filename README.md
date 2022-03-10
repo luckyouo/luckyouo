@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/luckyouo">
     <img src="https://github-profile-trophy.vercel.app/?username=luckyouo&theme=darkhub" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/luckyouo">
-    <img src="https://github-readme-stats.vercel.app/api?username=luckyouo&theme=dracula&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyouo&layout=compact&theme=dracula" />      
+    <img src="https://github-readme-stats.vercel.app/api?username=luckyouo&theme=darkhub&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyouo&layout=compact&theme=darkhub" />      
   </a>
 </p>
 
