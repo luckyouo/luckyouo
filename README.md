@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/luckyouo">
     <img src="https://github-readme-stats.vercel.app/api?username=luckyouo&theme=dracula&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyouo=anuraghazra&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyouo&layout&theme=dracula&layout=compact" />
   </a>
 </p>
