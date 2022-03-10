@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 </p>
 <p align="left">
   <a href="https://github.com/luckyouo">
-    <img src="https://github-readme-stats.vercel.app/api?username=luckyouo&theme=darkhub&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyouo&layout=compact&theme=darkhub" />      
+    <img src="https://github-readme-stats.vercel.app/api?username=luckyouo&theme=github_dark&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyouo&layout=compact&theme=github_dark" />      
   </a>
 </p>
 
